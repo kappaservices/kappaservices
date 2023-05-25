@@ -98,9 +98,3 @@ The ability to upgrade all system components including processor cores, memory, 
 ************************************************************************************************************************
 
 ![river-x-band](https://user-images.githubusercontent.com/134499461/240761128-3aa1c47e-36d1-46c6-a138-cd9fd3a38866.jpg)
-
-* https://soundcloud.com/river-x-band
-
-* https://www.radiox.co.uk/
-
-* https://www.youtube.com/@RadioX/featured
