@@ -76,7 +76,7 @@ The ability to upgrade all system components including processor cores, memory, 
 </b> 
 
 ************************************************************************************************************************ 
-### Kappa turn-key Enterprise Edition
+### Kappa Enterprise Edition®
 ************************************************************************************************************************
 
 <b>The kappa Enterprise Edition is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
