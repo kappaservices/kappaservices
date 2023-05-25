@@ -91,7 +91,7 @@ The ability to upgrade all system components including processor cores, memory, 
 
 ************************************************************************************************************************
 
-![tiers](https://user-images.githubusercontent.com/134499461/240968756-57fd2cb3-2000-4e2b-a8d6-bd7629949aaa.png)
+![tiers](https://user-images.githubusercontent.com/134499461/240970538-2081679f-63b0-4a0e-9c87-101ed1ff4d6f.png)
 
 ************************************************************************************************************************ 
 ### How to support cultural music in London
