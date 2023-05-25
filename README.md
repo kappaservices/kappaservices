@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Kappa labs®
 ************************************************************************************************************************
 
-<b>The research and development of cyberwarfare.</b>
+<b>The research and development of cyber security.</b>
 
 ************************************************************************************************************************ 
 ### Kappa programming language®
