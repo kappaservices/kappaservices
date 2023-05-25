@@ -81,7 +81,7 @@ The ability to upgrade all system components including processor cores, memory, 
 
 <b>The kappa Enterprise Edition is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
 
-![kappa-community](https://github.com/kappaservices/kappaservices/assets/134499461/ad7e6740-6541-4cc6-9f40-124a35be00c6)
+![kappa-community](https://user-images.githubusercontent.com/134499461/241078295-4f77cd91-2a36-481a-8d23-949630a90811.png)
 
 ************************************************************************************************************************ 
 ### Kappa Services Networks® - RNOC (Remote Network Operations Center)
