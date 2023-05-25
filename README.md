@@ -25,12 +25,6 @@ Here are some ideas to get you started:
 
 <b>Kappa is a proprietary programming language designed by Kappa labs.</b>
 
-************************************************************************************************************************ 
-### Kappa Services Networks®
-************************************************************************************************************************
-
-<b>Monitor, model, manage and mitigate cyber risk with Kappa Community. Developed by Kappa Labs.</b>
-
 ************************************************************************************************************************
 ### Kappa Super Computer®
 ************************************************************************************************************************ 
@@ -88,6 +82,12 @@ The ability to upgrade all system components including processor cores, memory, 
 <b>The kappa community is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
 
 ![kappa-community](https://github.com/kappaservices/kappaservices/assets/134499461/ad7e6740-6541-4cc6-9f40-124a35be00c6)
+
+************************************************************************************************************************ 
+### Kappa Services Networks®
+************************************************************************************************************************
+
+<b>Monitor, model, manage and mitigate cyber risk with Kappa Community. Developed by Kappa Labs.</b>
 
 ************************************************************************************************************************ 
 ### How to support cultural music in London
