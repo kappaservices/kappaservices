@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 * Installation	Instructions Provided / Onsite	Installation	Available	for	Additional	Cost <br/>
 * Extensive	Onsite	Maintenance	Kit<br/>  
   
-The ability to upgrade all system components including processor cores, memory, network backplane & available storage is built into The Kappa Enterprise Edition Data Flow Pipeline. The system will grow along with your computing needs.<br/> 
+The ability to upgrade all system components including processor cores, memory, network backplane & available storage is built into The Kappa Enterprise Edition® Data Flow Pipeline. The system will grow along with your computing needs.<br/> 
 
 </b> 
 
