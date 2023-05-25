@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Kappa Enterprise Edition®
 ************************************************************************************************************************
 
-<b>The kappa Enterprise Edition is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
+<b>The kappa Enterprise Edition® is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
 
 ![kappa-community](https://user-images.githubusercontent.com/134499461/241078295-4f77cd91-2a36-481a-8d23-949630a90811.png)
 
@@ -42,14 +42,26 @@ Here are some ideas to get you started:
  
 ************************************************************************************************************************
  
- ### The Kappa Enterprise Edition at data flow pipeline with storage appliance hosted:
+ ### The Kappa Enterprise Edition® at data flow pipeline with storage appliance hosted:
  
 ************************************************************************************************************************
- 
-* Kappa Enterprise Edition is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/> 
-* Kappa Linux Enterprise Edition is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
 
+* Kappa Linux Enterprise Edition is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
+* Kappa Enterprise Edition is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/>  
 * Kappa Enterprise Edition Data Flow (KEEDF) and Kappa Enterprise Edition Data Platform	(KEEDP) Bundle Installed	<br/>
+ 
+* 216 Total	Kappa	K Scalable	CPU	Cores<br/>
+* 160 Total	Kappa	K Scalable CPU	Cores	/	2.2 GHz on	Data	Nodes<br/>
+* 48	Total	Kappa	K Scalable	CPU	Cores	/	2.1	GHz	on	NiFi	Nodes<br/>
+* 32 Total	Kappa	K Scalable	CPU	Cores	/	2.2	GHz	on	Utility	Nodes<br/>
+  
+* 1224 GB	Total	High	Performance	ECC	Registered	Memory<br/>
+* 1024 GB	Total	High	Performance	ECC	Memory	on	Data	Nodes<br/>
+* 192	GB	Total	High	Performance	ECC	Memory	on	NiFi	Nodes<br/>
+* 256 GB	Total	High	Performance	ECC	Memory	on	Utility	Nodes<br/>
+  
+* 10 GigE	High	Performance	Network	Backplane<br/>
+ 
 * Hawkeye Cluster Management Toolkit<br/>
 * Hawkeye Feature	Details	on Following Page<br/>
 
@@ -63,18 +75,6 @@ Here are some ideas to get you started:
 * 264 TB	High	Performance	Enterprise	Storage	on	NiFi	Nodes<br/>
 * 8	TB High Performance	Enterprise	Flash	Storage	on	Utility	Nodes<br/>
   
-* 216 Total	Kappa	K Scalable	CPU	Cores<br/>
-* 160 Total	Kappa	K Scalable CPU	Cores	/	2.2 GHz on	Data	Nodes<br/>
-* 48	Total	Kappa	K Scalable	CPU	Cores	/	2.1	GHz	on	NiFi	Nodes<br/>
-* 32 Total	Kappa	K Scalable	CPU	Cores	/	2.2	GHz	on	Utility	Nodes<br/>
-  
-* 1224 GB	Total	High	Performance	ECC	Registered	Memory<br/>
-* 1024 GB	Total	High	Performance	ECC	Memory	on	Data	Nodes<br/>
-* 192	GB	Total	High	Performance	ECC	Memory	on	NiFi	Nodes<br/>
-* 256 GB	Total	High	Performance	ECC	Memory	on	Utility	Nodes<br/>
-  
-* 10 GigE	High	Performance	Network	Backplane<br/>
-
 * Management	&	Monitoring	Network	Include<br/>
 * IPMI	/	iKVM	Management Interface<br/>
   
