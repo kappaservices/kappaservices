@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Kappa labs®
 ************************************************************************************************************************
 
-<b>The research and development of cyber security.</b>
+<b>Cyber security research and development.</b>
 
 ************************************************************************************************************************
 ### Kappa Super Computer®
