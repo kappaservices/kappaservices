@@ -91,7 +91,7 @@ The ability to upgrade all system components including processor cores, memory, 
 ### Kappa Services Networks® - RNOC (Remote Network Operations Center)
 ************************************************************************************************************************
 
-<b>* Monitor, model, manage and mitigate cyber risk with Enterprise Edition®. Developed by Kappa Labs.</b>
+<b>* Monitor, model, manage and mitigate cyber risk with Kappa Enterprise Edition®. Developed by Kappa Labs.</b>
 
 ************************************************************************************************************************
 
