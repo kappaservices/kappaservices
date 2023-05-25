@@ -44,6 +44,8 @@ Here are some ideas to get you started:
  
  ### The Kappa Enterprise Edition at data flow pipeline with storage appliance hosted:
  
+************************************************************************************************************************
+ 
 * Kappa Enterprise Edition is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/> 
 * Kappa Linux Enterprise Edition is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
 
