@@ -89,9 +89,7 @@ The ability to upgrade all system components including processor cores, memory, 
 
 <b>Monitor, model, manage and mitigate cyber risk with Kappa Community. Developed by Kappa Labs.</b>
 
-![tiersa](https://user-images.githubusercontent.com/134499461/240967604-9ab2d43a-a112-4020-96a8-fa2c52de7f0f.png)
-
-![rnoc](https://user-images.githubusercontent.com/134499461/240965925-03a43634-e57d-4c09-812f-1f3a141cff71.png)
+![tiers](https://user-images.githubusercontent.com/134499461/240968756-57fd2cb3-2000-4e2b-a8d6-bd7629949aaa.png)
 
 ************************************************************************************************************************ 
 ### How to support cultural music in London
