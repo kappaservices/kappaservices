@@ -46,9 +46,9 @@ Here are some ideas to get you started:
  
 ************************************************************************************************************************
 
-* Kappa Linux Enterprise Edition is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
-* Kappa Enterprise Edition is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/>  
-* Kappa Enterprise Edition Data Flow (KEEDF) and Kappa Enterprise Edition Data Platform	(KEEDP) Bundle Installed	<br/>
+* Kappa Enterprise Edition® is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/>   
+* Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
+* Kappa Enterprise Edition® Data Flow (KEEDF) and Kappa Enterprise Edition Data Platform	(KEEDP) Bundle Installed	<br/>
  
 * 216 Total	Kappa	K Scalable	CPU	Cores<br/>
 * 160 Total	Kappa	K Scalable CPU	Cores	/	2.2 GHz on	Data	Nodes<br/>
