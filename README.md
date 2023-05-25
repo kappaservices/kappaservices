@@ -97,4 +97,4 @@ The ability to upgrade all system components including processor cores, memory, 
 ### How to support cultural music in London
 ************************************************************************************************************************
 
-![river-x-band](https://user-images.githubusercontent.com/134499461/240761128-3aa1c47e-36d1-46c6-a138-cd9fd3a38866.jpg)
+![river-x-band](https://user-images.githubusercontent.com/134499461/241018074-ae105e6d-6a20-40ff-86d5-b98e14cdd2b8.jpg)
