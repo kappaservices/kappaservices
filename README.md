@@ -31,18 +31,12 @@ Here are some ideas to get you started:
 
 <b>Kappa is a proprietary programming language designed by Microsystems Engineer River.</b>
 
-************************************************************************************************************************ 
-### Kappa community
-************************************************************************************************************************
-
-<b>The kappa community is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
-
-![kappa-community](https://github.com/kappaservices/kappaservices/assets/134499461/ad7e6740-6541-4cc6-9f40-124a35be00c6)
-
 ************************************************************************************************************************
 ### The Kappa community at data flow pipeline with storage appliance hosted:
 ************************************************************************************************************************ 
 <b> 
+ 
+![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg) 
  
 * Debian Linux Latest Kappa Labs Supported 64 Bit	Operating	System<br/>
  
@@ -85,6 +79,14 @@ Here are some ideas to get you started:
 The ability to upgrade all system components including processor cores, memory, network backplane & available storage is built into The Kappa x community Data Flow Pipeline. The system will grow along with your computing needs. <br/> 
 
 </b> 
+
+************************************************************************************************************************ 
+### Kappa community
+************************************************************************************************************************
+
+<b>The kappa community is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
+
+![kappa-community](https://github.com/kappaservices/kappaservices/assets/134499461/ad7e6740-6541-4cc6-9f40-124a35be00c6)
 
 ************************************************************************************************************************ 
 ### How to support cultural music in London
