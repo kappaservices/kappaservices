@@ -20,31 +20,31 @@ Here are some ideas to get you started:
 <b>The research and development of security guard software</b>
 
 ************************************************************************************************************************ 
-### Kappa X language (KXL)
+### Kappa language
 ************************************************************************************************************************
 
-<b>Kappa x is a proprietary programming language designed by Microsystems Engineer River.</b>
+<b>Kappa is a proprietary programming language designed by Microsystems Engineer River.</b>
 
 ************************************************************************************************************************ 
 ### Kappa Services Networks®
 ************************************************************************************************************************
 
-<b>Kappa x community, monitor, model, manage, and mitigate your cyber risk. Powered by Kappa x Labs.</b>
+<b>Kappa community, monitor, model, manage, and mitigate your cyber risk. Powered by Kappa x Labs.</b>
 
 ************************************************************************************************************************ 
-### Kappa tava community
+### Kappa community
 ************************************************************************************************************************
 
 ![kappa](https://user-images.githubusercontent.com/134499461/240753201-62de799a-5139-464d-9894-a27c5bd4e18c.png)
 
 ************************************************************************************************************************ 
-### Kappa x community data flow pipeline with storage
+### Kappa community data flow pipeline with storage
 ************************************************************************************************************************
 
-<b>The kappa x community is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
+<b>The kappa community is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
 
 ************************************************************************************************************************
-### The Kappa x community at data flow pipeline with storage appliance hosted:
+### The Kappa community at data flow pipeline with storage appliance hosted:
 ************************************************************************************************************************ 
 <b> 
  
