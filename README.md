@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### Kappa community
 ************************************************************************************************************************
 
-![kappa](https://user-images.githubusercontent.com/134499461/240753201-62de799a-5139-464d-9894-a27c5bd4e18c.png)
+![kappa-community](https://github.com/kappaservices/kappaservices/assets/134499461/ad7e6740-6541-4cc6-9f40-124a35be00c6)
 
 ************************************************************************************************************************ 
 ### Kappa community data flow pipeline with storage
