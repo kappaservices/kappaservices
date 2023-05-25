@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <b>The research and development of security guard software</b>
 
 ************************************************************************************************************************ 
-### Kappa language
+### Kappa programming language
 ************************************************************************************************************************
 
 <b>Kappa is a proprietary programming language designed by Microsystems Engineer River.</b>
