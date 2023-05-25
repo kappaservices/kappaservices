@@ -32,12 +32,12 @@ Here are some ideas to get you started:
  
 ![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg) 
  
-### The Kappa turn-key community at data flow pipeline with storage appliance hosted: 
+### The Kappa turn-key Enterprise Edition at data flow pipeline with storage appliance hosted: 
 
-* Kappa turn-key community is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/> 
+* Kappa turn-key Enterprise Edition is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/> 
 * Kappa Linux Enterprise Edition is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
 
-* Kappa turn-key community Data Flow and Kappa community Data Platform	(HMDP) Bundle Installed	<br/>
+* Kappa turn-key Enterprise Edition Data Flow and Kappa community Data Platform	(HMDP) Bundle Installed	<br/>
 * Hawkeye Cluster Management Toolkit<br/>
 * Hawkeye Feature	Details	on Following Page<br/>
 
@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 * 264 TB	High	Performance	Enterprise	Storage	on	NiFi	Nodes<br/>
 * 8	TB High Performance	Enterprise	Flash	Storage	on	Utility	Nodes<br/>
   
-* 216 Total	Kappa	Ka Scalable	CPU	Cores<br/>
-* 160 Total	Kappa	Ka Scalable CPU	Cores	/	2.2 GHz on	Data	Nodes<br/>
-* 48	Total	Kappa	Ka Scalable	CPU	Cores	/	2.1	GHz	on	NiFi	Nodes<br/>
-* 32 Total	Kappa	Ka Scalable	CPU	Cores	/	2.2	GHz	on	Utility	Nodes<br/>
+* 216 Total	Kappa	K Scalable	CPU	Cores<br/>
+* 160 Total	Kappa	K Scalable CPU	Cores	/	2.2 GHz on	Data	Nodes<br/>
+* 48	Total	Kappa	K Scalable	CPU	Cores	/	2.1	GHz	on	NiFi	Nodes<br/>
+* 32 Total	Kappa	K Scalable	CPU	Cores	/	2.2	GHz	on	Utility	Nodes<br/>
   
 * 1224 GB	Total	High	Performance	ECC	Registered	Memory<br/>
 * 1024 GB	Total	High	Performance	ECC	Memory	on	Data	Nodes<br/>
@@ -71,15 +71,15 @@ Here are some ideas to get you started:
 * Installation	Instructions Provided / Onsite	Installation	Available	for	Additional	Cost <br/>
 * Extensive	Onsite	Maintenance	Kit<br/>  
   
-The ability to upgrade all system components including processor cores, memory, network backplane & available storage is built into The Kappa community Data Flow Pipeline. The system will grow along with your computing needs. <br/> 
+The ability to upgrade all system components including processor cores, memory, network backplane & available storage is built into The Kappa Enterprise Edition Data Flow Pipeline. The system will grow along with your computing needs.<br/> 
 
 </b> 
 
 ************************************************************************************************************************ 
-### Kappa turn-key community
+### Kappa turn-key Enterprise Edition
 ************************************************************************************************************************
 
-<b>The kappa community is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
+<b>The kappa Enterprise Edition is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
 
 ![kappa-community](https://github.com/kappaservices/kappaservices/assets/134499461/ad7e6740-6541-4cc6-9f40-124a35be00c6)
 
