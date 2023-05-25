@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Kappa Services Networks®
 ************************************************************************************************************************
 
-<b>Kappa community, monitor, model, manage, and mitigate your cyber risk. Powered by Kappa x Labs.</b>
+<b>Kappa community, monitor, model, manage, and mitigate your cyber risk. Powered by Kappa Labs.</b>
 
 ************************************************************************************************************************ 
 ### Kappa community
