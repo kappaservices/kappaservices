@@ -35,13 +35,9 @@ Here are some ideas to get you started:
 ### Kappa community
 ************************************************************************************************************************
 
-![kappa-community](https://github.com/kappaservices/kappaservices/assets/134499461/ad7e6740-6541-4cc6-9f40-124a35be00c6)
-
-************************************************************************************************************************ 
-### Kappa community data flow pipeline with storage
-************************************************************************************************************************
-
 <b>The kappa community is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
+
+![kappa-community](https://github.com/kappaservices/kappaservices/assets/134499461/ad7e6740-6541-4cc6-9f40-124a35be00c6)
 
 ************************************************************************************************************************
 ### The Kappa community at data flow pipeline with storage appliance hosted:
