@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ************************************************************************************************************************ 
-### Kappa R & D labs
+### Kappa R&D labs
 ************************************************************************************************************************
 
 <b>The research and development of security guard software</b>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ************************************************************************************************************************ 
 <b> 
  
-### The Kappa community at data flow pipeline with storage appliance hosted:
+### The Kappa turn-key community at data flow pipeline with storage appliance hosted:
  
 ![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg) 
  
@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 * 264 TB	High	Performance	Enterprise	Storage	on	NiFi	Nodes<br/>
 * 8	TB High Performance	Enterprise	Flash	Storage	on	Utility	Nodes<br/>
   
-* 216 Total	Intel	Xe Scalable	CPU	Cores<br/>
-* 160 Total	Intel	Xe Scalable CPU	Cores	/	2.2 GHz on	Data	Nodes<br/>
-* 48	Total	Intel	Xe Scalable	CPU	Cores	/	2.1	GHz	on	NiFi	Nodes<br/>
-* 32 Total	Intel	Xe Scalable	CPU	Cores	/	2.2	GHz	on	Utility	Nodes<br/>
+* 216 Total	Kappa	Ka Scalable	CPU	Cores<br/>
+* 160 Total	Kappa	Ka Scalable CPU	Cores	/	2.2 GHz on	Data	Nodes<br/>
+* 48	Total	Kappa	Ka Scalable	CPU	Cores	/	2.1	GHz	on	NiFi	Nodes<br/>
+* 32 Total	Kappa	Ka Scalable	CPU	Cores	/	2.2	GHz	on	Utility	Nodes<br/>
   
 * 1224 GB	Total	High	Performance	ECC	Registered	Memory<br/>
 * 1024 GB	Total	High	Performance	ECC	Memory	on	Data	Nodes<br/>
@@ -78,12 +78,12 @@ Here are some ideas to get you started:
 * Installation	Instructions Provided / Onsite	Installation	Available	for	Additional	Cost <br/>
 * Extensive	Onsite	Maintenance	Kit<br/>  
   
-The ability to upgrade all system components including processor cores, memory, network backplane & available storage is built into The Kappa x community Data Flow Pipeline. The system will grow along with your computing needs. <br/> 
+The ability to upgrade all system components including processor cores, memory, network backplane & available storage is built into The Kappa community Data Flow Pipeline. The system will grow along with your computing needs. <br/> 
 
 </b> 
 
 ************************************************************************************************************************ 
-### Kappa community
+### Kappa turn-key community
 ************************************************************************************************************************
 
 <b>The kappa community is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
