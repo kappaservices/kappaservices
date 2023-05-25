@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <b>The research and development of security guard software</b>
 
 ************************************************************************************************************************ 
-### Kappa tava language (KXL)
+### Kappa X language (KXL)
 ************************************************************************************************************************
 
-<b>Kappa x is a proprietary programming language designed by Microsystems Engineer Rivera Tava (River X).</b>
+<b>Kappa x is a proprietary programming language designed by Microsystems Engineer River.</b>
 
 ************************************************************************************************************************ 
 ### Kappa Services Networks®
