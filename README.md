@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ************************************************************************************************************************ 
-### Kappa labs
+### Kappa R & D labs
 ************************************************************************************************************************
 
 <b>The research and development of security guard software</b>
 
 ************************************************************************************************************************ 
-### Kappa programming language
+### Kappa programming language®
 ************************************************************************************************************************
 
 <b>Kappa is a proprietary programming language designed by Microsystems Engineer River.</b>
@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 <b>Kappa community, monitor, model, manage, and mitigate your cyber risk. Powered by Kappa Labs.</b>
 
 ************************************************************************************************************************
-### The Kappa community at data flow pipeline with storage appliance hosted:
+### Kappa Super Computer®
 ************************************************************************************************************************ 
 <b> 
+ 
+### The Kappa community at data flow pipeline with storage appliance hosted:
  
 ![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg) 
  
