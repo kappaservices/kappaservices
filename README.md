@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 ### The Kappa turn-key community at data flow pipeline with storage appliance hosted: 
  
 * Kappa Linux Enterprise Edition is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
+* Kappa turn-key community is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/>  
  
-* Kappa turn-key community Data Flow and Kappa x community Data Platform	(HMDP) Bundle Installed	<br/>
-* Kappa turn-key community is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/> 
- 
+* Kappa turn-key community Data Flow and Kappa community Data Platform	(HMDP) Bundle Installed	<br/>
 * Hawkeye Cluster Management Toolkit<br/>
 * Hawkeye Feature	Details	on Following Page<br/>
 
