@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 ************************************************************************************************************************ 
 <b> 
  
-### The Kappa turn-key community at data flow pipeline with storage appliance hosted:
- 
 ![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg) 
  
-* Kappa Linux Latest Kappa Labs Supported 64 Bit	Operating	System derived Debian Linux.<br/>
+### The Kappa turn-key community at data flow pipeline with storage appliance hosted: 
+ 
+* Kappa Linux Enterprise Edition is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
  
 * Kappa turn-key community Data Flow and Kappa x community Data Platform	(HMDP) Bundle Installed	<br/>
 * Kappa turn-key community is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/> 
