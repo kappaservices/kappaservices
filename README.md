@@ -84,7 +84,7 @@ The ability to upgrade all system components including processor cores, memory, 
 ![kappa-community](https://github.com/kappaservices/kappaservices/assets/134499461/ad7e6740-6541-4cc6-9f40-124a35be00c6)
 
 ************************************************************************************************************************ 
-### Kappa Services Networks®
+### Kappa Services Networks® - Global RNOC
 ************************************************************************************************************************
 
 <b>Monitor, model, manage and mitigate cyber risk with Kappa Community. Developed by Kappa Labs.</b>
