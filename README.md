@@ -25,26 +25,25 @@ Here are some ideas to get you started:
 
 <b>Kappa is a proprietary programming language designed by Kappa labs.</b>
 
+************************************************************************************************************************
+### Kappa Super Computer®
+************************************************************************************************************************ 
+
+![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg)
+ 
 ************************************************************************************************************************ 
 ### Kappa Enterprise Edition®
 ************************************************************************************************************************
 
 <b>The kappa Enterprise Edition® is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
 
-![kappa-community](https://user-images.githubusercontent.com/134499461/241078295-4f77cd91-2a36-481a-8d23-949630a90811.png)
-
+![kappa-community](https://user-images.githubusercontent.com/134499461/241078295-4f77cd91-2a36-481a-8d23-949630a90811.png) 
+ 
 ************************************************************************************************************************
-### Kappa Super Computer®
-************************************************************************************************************************ 
+### The Kappa Enterprise Edition® at data flow pipeline with storage appliance hosted:
+************************************************************************************************************************
+
 <b> 
-
-![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg) 
- 
-************************************************************************************************************************
- 
- ### The Kappa Enterprise Edition® at data flow pipeline with storage appliance hosted:
- 
-************************************************************************************************************************
 
 * Kappa Enterprise Edition® is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/>   
 * Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
