@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 
 <b>Kappa is a proprietary programming language designed by Kappa labs.</b>
 
+************************************************************************************************************************ 
+### Kappa Enterprise Edition®
+************************************************************************************************************************
+
+<b>The kappa Enterprise Edition is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
+
+![kappa-community](https://user-images.githubusercontent.com/134499461/241078295-4f77cd91-2a36-481a-8d23-949630a90811.png)
+
 ************************************************************************************************************************
 ### Kappa Super Computer®
 ************************************************************************************************************************ 
@@ -32,16 +40,16 @@ Here are some ideas to get you started:
  
 ![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg) 
  
-### The Kappa turn-key Enterprise Edition at data flow pipeline with storage appliance hosted: 
+### The Kappa Enterprise Edition at data flow pipeline with storage appliance hosted: 
 
-* Kappa turn-key Enterprise Edition is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/> 
+* Kappa Enterprise Edition is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/> 
 * Kappa Linux Enterprise Edition is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
 
-* Kappa turn-key Enterprise Edition Data Flow and Kappa community Data Platform	(HMDP) Bundle Installed	<br/>
+* Kappa Enterprise Edition Data Flow (KEEDF) and Kappa Enterprise Edition Data Platform	(KEEDP) Bundle Installed	<br/>
 * Hawkeye Cluster Management Toolkit<br/>
 * Hawkeye Feature	Details	on Following Page<br/>
 
-* Configuration	and	Baseline Testing of HCP	by Cluster Engineers<br/> 
+* Configuration	and	Baseline Testing of KEECP	by Cluster Engineers<br/> 
  
 * 2 Name Nodes, 8 Data Nodes, 3 NiFi Nodes & 2	Utility	Nodes<br/>
 * Node Configuration	Details	on	Following	Page<br/>
@@ -76,18 +84,10 @@ The ability to upgrade all system components including processor cores, memory, 
 </b> 
 
 ************************************************************************************************************************ 
-### Kappa Enterprise Edition®
-************************************************************************************************************************
-
-<b>The kappa Enterprise Edition is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
-
-![kappa-community](https://user-images.githubusercontent.com/134499461/241078295-4f77cd91-2a36-481a-8d23-949630a90811.png)
-
-************************************************************************************************************************ 
 ### Kappa Services Networks® - RNOC (Remote Network Operations Center)
 ************************************************************************************************************************
 
-<b>* Monitor, model, manage and mitigate cyber risk with Kappa Community. Developed by Kappa Labs.</b>
+<b>* Monitor, model, manage and mitigate cyber risk with Enterprise Edition®. Developed by Kappa Labs.</b>
 
 ************************************************************************************************************************
 
