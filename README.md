@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <b>The kappa Cybersecurity Enterprise Edition® is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
 
-![kappa-community](https://user-images.githubusercontent.com/134499461/241090486-0eec7ee8-4e53-41ac-aed8-7a6c1239e11b.png) 
+![kappa-community](https://user-images.githubusercontent.com/134499461/241092635-48010fdf-b6e4-4ab5-845e-c7237f73ad0a.png) 
  
 ************************************************************************************************************************
 ### The Kappa Cybersecurity Enterprise Edition® at data flow pipeline with storage appliance hosted:
