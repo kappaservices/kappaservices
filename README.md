@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <b> 
 
-* Kappa Cybersecurity Enterprise Edition® Data Flow (KCEEDF) and Kappa Cybersecurity Enterprise Edition Data Platform	(KCEEDP) Bundle Installed	<br/>
+* Kappa Cybersecurity Enterprise Edition® Data Flow (KCEEDF) and Kappa Cybersecurity Enterprise Edition® Data Platform	(KCEEDP) Bundle Installed	<br/>
  
 * 216 Total	Kappa	K Scalable	CPU	Cores<br/>
 * 160 Total	Kappa	K Scalable CPU	Cores	/	2.2 GHz on	Data	Nodes<br/>
