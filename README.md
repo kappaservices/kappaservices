@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### Kappa Cybersecurity Enterprise Edition®
 ************************************************************************************************************************
 
-<b>The kappa Enterprise Edition® is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
+<b>The kappa Cybersecurity Enterprise Edition® is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
 
 ![kappa-community](https://user-images.githubusercontent.com/134499461/241090486-0eec7ee8-4e53-41ac-aed8-7a6c1239e11b.png) 
  
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <b> 
 
-* Kappa Enterprise Edition® Data Flow (KEEDF) and Kappa Enterprise Edition Data Platform	(KEEDP) Bundle Installed	<br/>
+* Kappa Cybersecurity Enterprise Edition® Data Flow (KCEEDF) and Kappa Cybersecurity Enterprise Edition Data Platform	(KCEEDP) Bundle Installed	<br/>
  
 * 216 Total	Kappa	K Scalable	CPU	Cores<br/>
 * 160 Total	Kappa	K Scalable CPU	Cores	/	2.2 GHz on	Data	Nodes<br/>
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 * Installation	Instructions Provided / Onsite	Installation	Available	for	Additional	Cost <br/>
 * Extensive	Onsite	Maintenance	Kit<br/>  
   
-The ability to upgrade all system components including processor cores, memory, network backplane & available storage is built into The Kappa Enterprise Edition® Data Flow Pipeline. The system will grow along with your computing needs.<br/> 
+The ability to upgrade all system components including processor cores, memory, network backplane & available storage is built into The Kappa Cybersecurity Enterprise Edition® Data Flow Pipeline. The system will grow along with your computing needs.<br/> 
 
 </b> 
 
@@ -96,7 +96,7 @@ The ability to upgrade all system components including processor cores, memory, 
 ### Kappa Services Networks® - RNOC (Remote Network Operations Center)
 ************************************************************************************************************************
 
-<b>* Monitor, model, manage and mitigate cyber risk with Kappa Enterprise Edition®. Developed by Kappa Labs.</b>
+<b>* Monitor, model, manage and mitigate cyber risk with Kappa Cybersecurity Enterprise Edition®. Developed by Kappa Labs.</b>
 
 ************************************************************************************************************************
 
