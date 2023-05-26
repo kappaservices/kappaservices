@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <b> Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.</b>
 
-![kappa-linux-1024x576-4007743163](https://user-images.githubusercontent.com/134499461/241086167-6342a293-7179-4105-bcd5-8c037946aadf.jpg)
+![516056-7-3526405306](https://github.com/kappaservices/kappaservices/assets/134499461/180d0a9b-cac2-4e70-a5f9-4bed21e407c8)
 
 ************************************************************************************************************************ 
 ### Kappa programming language®
