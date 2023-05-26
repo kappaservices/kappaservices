@@ -30,6 +30,14 @@ Here are some ideas to get you started:
 ************************************************************************************************************************
 
 <b>Kappa is a proprietary programming language designed by Kappa labs.</b>
+
+************************************************************************************************************************ 
+### Kappa Linux Enterprise Edition®
+************************************************************************************************************************
+
+* Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
+
+![kappa-linux-1024x576-4007743163](https://user-images.githubusercontent.com/134499461/241086167-6342a293-7179-4105-bcd5-8c037946aadf.jpg)
  
 ************************************************************************************************************************ 
 ### Kappa Enterprise Edition®
@@ -45,8 +53,6 @@ Here are some ideas to get you started:
 
 <b> 
 
-* Kappa Enterprise Edition® is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/>   
-* Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
 * Kappa Enterprise Edition® Data Flow (KEEDF) and Kappa Enterprise Edition Data Platform	(KEEDP) Bundle Installed	<br/>
  
 * 216 Total	Kappa	K Scalable	CPU	Cores<br/>
