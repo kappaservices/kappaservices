@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 ![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg)
 
 ************************************************************************************************************************ 
+### Kappa Linux Enterprise Edition®
+************************************************************************************************************************
+
+<b> Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.</b>
+
+![kappa-linux-1024x576-4007743163](https://user-images.githubusercontent.com/134499461/241086167-6342a293-7179-4105-bcd5-8c037946aadf.jpg)
+
+************************************************************************************************************************ 
 ### Kappa programming language®
 ************************************************************************************************************************
 
 <b>Kappa is a proprietary programming language designed by Kappa labs.</b>
-
-************************************************************************************************************************ 
-### Kappa Linux Enterprise Edition®
-************************************************************************************************************************
-
-* Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.<br/>
-
-![kappa-linux-1024x576-4007743163](https://user-images.githubusercontent.com/134499461/241086167-6342a293-7179-4105-bcd5-8c037946aadf.jpg)
  
 ************************************************************************************************************************ 
 ### Kappa Enterprise Edition®
