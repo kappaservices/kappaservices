@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <b>The kappa Enterprise Edition® is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
 
-![kappa-community](https://user-images.githubusercontent.com/134499461/241078295-4f77cd91-2a36-481a-8d23-949630a90811.png) 
+![kappa-community](https://user-images.githubusercontent.com/134499461/241090486-0eec7ee8-4e53-41ac-aed8-7a6c1239e11b.png) 
  
 ************************************************************************************************************************
 ### The Kappa Enterprise Edition® at data flow pipeline with storage appliance hosted:
