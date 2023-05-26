@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <b>Kappa is a proprietary programming language designed by Kappa labs.</b>
  
 ************************************************************************************************************************ 
-### Kappa Enterprise Edition®
+### Kappa Turn-Key Enterprise Edition®
 ************************************************************************************************************************
 
 <b>The kappa Enterprise Edition® is a turn-key, high performance computing platform designed specifically the Kappa Labs for Data Flow and Data Platform.</b>
