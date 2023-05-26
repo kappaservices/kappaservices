@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ![kappa-community](https://user-images.githubusercontent.com/134499461/241090486-0eec7ee8-4e53-41ac-aed8-7a6c1239e11b.png) 
  
 ************************************************************************************************************************
-### The Kappa Enterprise Edition® at data flow pipeline with storage appliance hosted:
+### The Kappa Cybersecurity Enterprise Edition® at data flow pipeline with storage appliance hosted:
 ************************************************************************************************************************
 
 <b> 
