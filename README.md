@@ -33,18 +33,17 @@ Here are some ideas to get you started:
 
 ************************************************************************************************************************
 
-## How to build
+### How to build
+### The section below is for Debian based distros.
 
-## The section below is for Debian based distros.
-
-# Update all repositories and upgrade all packages
+### Update all repositories and upgrade all packages
 sudo apt update
 sudo apt upgrade -y
 
-# Resolve build dependencies
+### Resolve build dependencies
 sudo apt install -y wget make gawk gcc bc bison flex xorriso libelf-dev libssl-dev
 
-# Build everything and produce ISO image.
+### Build everything and produce ISO image.
 ./kappa_linux_enterprise_edition.sh
 
 ************************************************************************************************************************
