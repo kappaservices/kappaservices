@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 ![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg)
 
 ************************************************************************************************************************ 
-### Kappa Linux Enterprise Edition®
-************************************************************************************************************************
-
-<b> Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.</b>
-
-************************************************************************************************************************ 
 ### Debian 11 (Bullseye) -- Full sources.list
 ************************************************************************************************************************ 
 
 <b>
+ 
+Reference Book:
+
+Andrew S. Tanenbaum - Operating Systems. Design and Implementation
+ 
+************************************************************************************************************************ 
  
 https://www.debian.org/mirror/list 
  
@@ -61,7 +61,11 @@ deb http://security.debian.org/debian-security/ bullseye-security main contrib n
  
 deb-src http://security.debian.org/debian-security/ bullseye-security main contrib non-free
 
+************************************************************************************************************************ 
+### Kappa Linux Enterprise Edition®
 ************************************************************************************************************************
+
+<b> Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.</b> 
 
 * How to build
  
