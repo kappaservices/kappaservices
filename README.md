@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 * Build everything and produce ISO image.
  
-:~# ./kappa_linux_enterprise_edition.sh
+:~# ./build_kappa_linux_enterprise_edition.sh
  
 </b>
 
