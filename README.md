@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 <b>
  
+https://www.debian.org/mirror/list 
+ 
 https://sources.debian.org/ 
  
 * Debian Mirrors (worldwide) 
