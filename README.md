@@ -71,6 +71,8 @@ Reference Book:
 
 Andrew S. Tanenbaum - Operating Systems. Design and Implementation
  
+![f6248627460a2d1aac0e196ff22d163e-1878429600](https://github.com/kappaservices/kappaservices/assets/134499461/bb95ef91-da6c-451d-8b0f-bcd9260428c8) 
+ 
 ************************************************************************************************************************ 
  
 https://www.debian.org/mirror/list 
