@@ -26,42 +26,6 @@ Here are some ideas to get you started:
 ![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg)
 
 ************************************************************************************************************************ 
-### Debian 11 (Bullseye) -- Full sources.list
-************************************************************************************************************************ 
-
-<b>
- 
-Reference Book:
-
-Andrew S. Tanenbaum - Operating Systems. Design and Implementation
- 
-************************************************************************************************************************ 
- 
-https://www.debian.org/mirror/list 
- 
-https://sources.debian.org/ 
- 
-* Debian Mirrors (worldwide) 
-
-http://ftp.uk.debian.org/debian/
- 
-deb http://deb.debian.org/debian bullseye main contrib non-free
- 
-deb-src http://deb.debian.org/debian bullseye main contrib non-free
-
-deb http://deb.debian.org/debian bullseye-updates main contrib non-free
- 
-deb-src http://deb.debian.org/debian bullseye-updates main contrib non-free
-
-deb http://deb.debian.org/debian bullseye-backports main contrib non-free
- 
-deb-src http://deb.debian.org/debian bullseye-backports main contrib non-free
-
-deb http://security.debian.org/debian-security/ bullseye-security main contrib non-free
- 
-deb-src http://security.debian.org/debian-security/ bullseye-security main contrib non-free
-
-************************************************************************************************************************ 
 ### Kappa Linux Enterprise Edition®
 ************************************************************************************************************************
 
@@ -96,6 +60,42 @@ deb-src http://security.debian.org/debian-security/ bullseye-security main contr
 ![kappa_linux_minimal](https://github.com/kappaservices/kappaservices/assets/134499461/180a146e-a894-4ade-bc15-99e85edf3a7d)
 
 ![516056-7-3526405306](https://github.com/kappaservices/kappaservices/assets/134499461/180d0a9b-cac2-4e70-a5f9-4bed21e407c8)
+
+************************************************************************************************************************ 
+### Debian 11 (Bullseye) -- Full sources.list
+************************************************************************************************************************ 
+
+<b>
+ 
+Reference Book:
+
+Andrew S. Tanenbaum - Operating Systems. Design and Implementation
+ 
+************************************************************************************************************************ 
+ 
+https://www.debian.org/mirror/list 
+ 
+https://sources.debian.org/ 
+ 
+* Debian Mirrors (worldwide) 
+
+http://ftp.uk.debian.org/debian/
+ 
+deb http://deb.debian.org/debian bullseye main contrib non-free
+ 
+deb-src http://deb.debian.org/debian bullseye main contrib non-free
+
+deb http://deb.debian.org/debian bullseye-updates main contrib non-free
+ 
+deb-src http://deb.debian.org/debian bullseye-updates main contrib non-free
+
+deb http://deb.debian.org/debian bullseye-backports main contrib non-free
+ 
+deb-src http://deb.debian.org/debian bullseye-backports main contrib non-free
+
+deb http://security.debian.org/debian-security/ bullseye-security main contrib non-free
+ 
+deb-src http://security.debian.org/debian-security/ bullseye-security main contrib non-free
 
 ************************************************************************************************************************ 
 ### Kappa programming language®
