@@ -31,6 +31,24 @@ Here are some ideas to get you started:
 
 <b> Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.</b>
 
+************************************************************************************************************************
+
+## How to build
+
+## The section below is for Debian based distros.
+
+# Update all repositories and upgrade all packages
+sudo apt update
+sudo apt upgrade -y
+
+# Resolve build dependencies
+sudo apt install -y wget make gawk gcc bc bison flex xorriso libelf-dev libssl-dev
+
+# Build everything and produce ISO image.
+./kappa_linux_enterprise_edition.sh
+
+************************************************************************************************************************
+
 ![source](https://github.com/kappaservices/kappaservices/assets/134499461/3856ba9f-5431-46e8-a41f-aa9495c1f0b6)
 
 ![source2](https://github.com/kappaservices/kappaservices/assets/134499461/939e922e-9fcb-4568-b8b8-9f931805917d)
