@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ![source](https://github.com/kappaservices/kappaservices/assets/134499461/4ddc2ce9-6f50-4bd9-ac92-83f412c5e921)
 
+![source2](https://github.com/kappaservices/kappaservices/assets/134499461/939e922e-9fcb-4568-b8b8-9f931805917d)
+
 ![kappa_linux_minimal](https://github.com/kappaservices/kappaservices/assets/134499461/180a146e-a894-4ade-bc15-99e85edf3a7d)
 
 ![516056-7-3526405306](https://github.com/kappaservices/kappaservices/assets/134499461/180d0a9b-cac2-4e70-a5f9-4bed21e407c8)
