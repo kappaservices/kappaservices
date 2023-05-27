@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 
 <b> Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.</b>
 
-************************************************************************************************************************
-
-
 ************************************************************************************************************************ 
 ### Debian 11 (Bullseye) -- Full sources.list
 ************************************************************************************************************************ 
@@ -41,15 +38,19 @@ Here are some ideas to get you started:
 <b>
 
 deb http://deb.debian.org/debian bullseye main contrib non-free
+ 
 deb-src http://deb.debian.org/debian bullseye main contrib non-free
 
 deb http://deb.debian.org/debian bullseye-updates main contrib non-free
+ 
 deb-src http://deb.debian.org/debian bullseye-updates main contrib non-free
 
 deb http://deb.debian.org/debian bullseye-backports main contrib non-free
+ 
 deb-src http://deb.debian.org/debian bullseye-backports main contrib non-free
 
 deb http://security.debian.org/debian-security/ bullseye-security main contrib non-free
+ 
 deb-src http://security.debian.org/debian-security/ bullseye-security main contrib non-free
 
 ************************************************************************************************************************
