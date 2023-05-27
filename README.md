@@ -38,7 +38,11 @@ Here are some ideas to get you started:
 <b>
  
 https://sources.debian.org/ 
+ 
+* Debian Mirrors (worldwide) 
 
+http://ftp.uk.debian.org/debian/
+ 
 deb http://deb.debian.org/debian bullseye main contrib non-free
  
 deb-src http://deb.debian.org/debian bullseye main contrib non-free
