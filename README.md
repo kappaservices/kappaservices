@@ -136,7 +136,7 @@ The ability to upgrade all system components including processor cores, memory, 
 
 <b>
 
-* ISO 690:2021(en) 
+* ISO 690:2021(en) - Information and documentation — Guidelines for bibliographic references and citations to information resources
  
 https://www.iso.org/obp/ui/#iso:std:iso:690:ed-4:v1:en 
  
