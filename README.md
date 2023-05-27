@@ -133,21 +133,26 @@ The ability to upgrade all system components including processor cores, memory, 
 ************************************************************************************************************************ 
 ### Reference Book:
 ************************************************************************************************************************ 
+
 <b>
 
 RISC-V - The Free and Open RISC Instruction Set Architecture
+ 
+https://riscv.org/ 
 
 https://github.com/riscv
-
+ 
 * Structured Computer Organization
+ 
+************************************************************************************************************************ 
 
 ![550x733-316639170](https://github.com/kappaservices/kappaservices/assets/134499461/3d7fd1c7-4fc7-470d-965e-79441fe33eda)
+ 
+* Stichting MINIX Research Foundation 
 
 http://www.minix3.org/ 
  
-* Stichting MINIX Research Foundation 
- 
- https://github.com/Stichting-MINIX-Research-Foundation 
+https://github.com/Stichting-MINIX-Research-Foundation 
  
 ![f6248627460a2d1aac0e196ff22d163e-1878429600](https://github.com/kappaservices/kappaservices/assets/134499461/bb95ef91-da6c-451d-8b0f-bcd9260428c8) 
  
