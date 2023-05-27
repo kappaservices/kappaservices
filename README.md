@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 ************************************************************************************************************************ 
 
 <b>
+ 
+https://sources.debian.org/ 
 
 deb http://deb.debian.org/debian bullseye main contrib non-free
  
