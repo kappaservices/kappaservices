@@ -62,18 +62,18 @@ Here are some ideas to get you started:
 ![516056-7-3526405306](https://github.com/kappaservices/kappaservices/assets/134499461/180d0a9b-cac2-4e70-a5f9-4bed21e407c8)
 
 ************************************************************************************************************************ 
-### Debian 11 (Bullseye) -- Full sources.list
+### Reference Book:
 ************************************************************************************************************************ 
 
 <b>
  
-Reference Book:
-
 Andrew S. Tanenbaum - Operating Systems. Design and Implementation
  
 ![f6248627460a2d1aac0e196ff22d163e-1878429600](https://github.com/kappaservices/kappaservices/assets/134499461/bb95ef91-da6c-451d-8b0f-bcd9260428c8) 
  
 ************************************************************************************************************************ 
+### Debian 11 (Bullseye) -- Full sources.list
+************************************************************************************************************************  
  
 https://www.debian.org/mirror/list 
  
