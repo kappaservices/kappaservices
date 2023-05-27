@@ -134,6 +134,10 @@ The ability to upgrade all system components including processor cores, memory, 
 ### Reference Book:
 ************************************************************************************************************************ 
 
+RISC-V - The Free and Open RISC Instruction Set Architecture
+
+https://github.com/riscv
+
 <b>
  
 http://www.minix3.org/ 
