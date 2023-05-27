@@ -62,48 +62,6 @@ Here are some ideas to get you started:
 ![516056-7-3526405306](https://github.com/kappaservices/kappaservices/assets/134499461/180d0a9b-cac2-4e70-a5f9-4bed21e407c8)
 
 ************************************************************************************************************************ 
-### Reference Book:
-************************************************************************************************************************ 
-
-<b>
- 
-http://www.minix3.org/ 
- 
-* Stichting MINIX Research Foundation 
- 
- https://github.com/Stichting-MINIX-Research-Foundation 
- 
-![f6248627460a2d1aac0e196ff22d163e-1878429600](https://github.com/kappaservices/kappaservices/assets/134499461/bb95ef91-da6c-451d-8b0f-bcd9260428c8) 
- 
-************************************************************************************************************************ 
-### Debian 11 (Bullseye) -- Full sources.list
-************************************************************************************************************************  
- 
-https://www.debian.org/mirror/list 
- 
-https://sources.debian.org/ 
- 
-* Debian Mirrors (worldwide) 
-
-http://ftp.uk.debian.org/debian/
- 
-deb http://deb.debian.org/debian bullseye main contrib non-free
- 
-deb-src http://deb.debian.org/debian bullseye main contrib non-free
-
-deb http://deb.debian.org/debian bullseye-updates main contrib non-free
- 
-deb-src http://deb.debian.org/debian bullseye-updates main contrib non-free
-
-deb http://deb.debian.org/debian bullseye-backports main contrib non-free
- 
-deb-src http://deb.debian.org/debian bullseye-backports main contrib non-free
-
-deb http://security.debian.org/debian-security/ bullseye-security main contrib non-free
- 
-deb-src http://security.debian.org/debian-security/ bullseye-security main contrib non-free
-
-************************************************************************************************************************ 
 ### Kappa programming language®
 ************************************************************************************************************************
 
@@ -171,6 +129,48 @@ The ability to upgrade all system components including processor cores, memory, 
 ************************************************************************************************************************
 
 ![tiers](https://user-images.githubusercontent.com/134499461/240970538-2081679f-63b0-4a0e-9c87-101ed1ff4d6f.png)
+
+************************************************************************************************************************ 
+### Reference Book:
+************************************************************************************************************************ 
+
+<b>
+ 
+http://www.minix3.org/ 
+ 
+* Stichting MINIX Research Foundation 
+ 
+ https://github.com/Stichting-MINIX-Research-Foundation 
+ 
+![f6248627460a2d1aac0e196ff22d163e-1878429600](https://github.com/kappaservices/kappaservices/assets/134499461/bb95ef91-da6c-451d-8b0f-bcd9260428c8) 
+ 
+************************************************************************************************************************ 
+### Debian 11 (Bullseye) -- Full sources.list
+************************************************************************************************************************  
+ 
+https://www.debian.org/mirror/list 
+ 
+https://sources.debian.org/ 
+ 
+* Debian Mirrors (worldwide) 
+
+http://ftp.uk.debian.org/debian/
+ 
+deb http://deb.debian.org/debian bullseye main contrib non-free
+ 
+deb-src http://deb.debian.org/debian bullseye main contrib non-free
+
+deb http://deb.debian.org/debian bullseye-updates main contrib non-free
+ 
+deb-src http://deb.debian.org/debian bullseye-updates main contrib non-free
+
+deb http://deb.debian.org/debian bullseye-backports main contrib non-free
+ 
+deb-src http://deb.debian.org/debian bullseye-backports main contrib non-free
+
+deb http://security.debian.org/debian-security/ bullseye-security main contrib non-free
+ 
+deb-src http://security.debian.org/debian-security/ bullseye-security main contrib non-free
 
 ************************************************************************************************************************ 
 ### How to support cultural music in London
