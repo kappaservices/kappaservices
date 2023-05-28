@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ************************************************************************************************************************ 
-### NASAMS New Genearation IA Command
+### New Genearation NASAMS - IA Command
 ************************************************************************************************************************
 
 NASAMS (Norwegian Advanced Surface-to-Air Missile System, also known as the National Advanced Surface-to-Air Missile System
