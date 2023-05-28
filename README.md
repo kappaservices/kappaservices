@@ -21,6 +21,8 @@ NASAMS (Norwegian Advanced Surface-to-Air Missile System, also known as the Nati
 
 ![NASAMS+II-2341962635](https://github.com/kappaservices/kappaservices/assets/134499461/eaba6480-540b-4976-b04a-8deaeb5e7671)
 
+![nasams-nl-image01](https://github.com/kappaservices/kappaservices/assets/134499461/45e8e450-3852-454c-bbe3-826bf9717490)
+
 ************************************************************************************************************************ 
 ### Kappa Labs®
 ************************************************************************************************************************
