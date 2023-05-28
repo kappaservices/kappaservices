@@ -19,13 +19,17 @@ Here are some ideas to get you started:
 
 ### Learning
 
-* Deep learning
-* Fuzzy logic
-* Neural network
+* Deep learning;
+* Fuzzy logic;
+* Neural network;
 
 ### Perception
 
-Machine perception, Social Intelligence, Computer vision, Natural language processing and Speech recognition
+* Machine perception;
+* Social Intelligence;
+* Computer vision;
+* Natural language processing;
+* Speech recognition.
 
 ************************************************************************************************************************
 
