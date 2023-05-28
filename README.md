@@ -22,10 +22,10 @@ The National Advanced Surface-to-Air Missile System (NASAMS) has its roots in th
 ![NASAMS+II-2341962635](https://github.com/kappaservices/kappaservices/assets/134499461/eaba6480-540b-4976-b04a-8deaeb5e7671)
 
 ************************************************************************************************************************ 
-### Medium Extended Air Defense System K New Gereration - IA Command
+### MEADS K New Gereration - IA Command
 ************************************************************************************************************************
 
-The MEADS program is refining system-design concepts to meet the technical requirements agreed to by the MEADS partners-the U.S., Germany, and Italy. In July 1996, NATO formed the NATO MEADS Management Agency (NAMEADSMA) to lead program activities. The United States, Germany, and Italy have staffed the agency. NAMEADSMA awarded contracts for the Program Definition and Validation phase, which was scheduled for completion in early FY99. However, the U.S. has been evaluating options to reduce the overall costs of the MEADS program, including use of the PAC-3 missile.
+The Medium Extended Air Defense System (MEADS) program is refining system-design concepts to meet the technical requirements agreed to by the MEADS partners-the U.S., Germany, and Italy. In July 1996, NATO formed the NATO MEADS Management Agency (NAMEADSMA) to lead program activities. The United States, Germany, and Italy have staffed the agency. NAMEADSMA awarded contracts for the Program Definition and Validation phase, which was scheduled for completion in early FY99. However, the U.S. has been evaluating options to reduce the overall costs of the MEADS program, including use of the PAC-3 missile.
 
 ![18511382_304-3881340038](https://github.com/kappaservices/kappaservices/assets/134499461/829d215b-97ae-4254-b52d-f1213c31570a)
 
