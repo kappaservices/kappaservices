@@ -14,55 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ************************************************************************************************************************ 
-### Kappa AI New Generation - Personality Psychology
-************************************************************************************************************************
-
-### Initial reading : Artificial intelligence using C, Herbert Schildt 
-
-### Obs: Kappa AI New Generation, does not use bigdata.
-
-### Learning
-
-* Deep learning;
-* Fuzzy logic;
-* Neural network.
-
-### Perception
-
-* Machine perception, is the capability of a computer system to interpret data in a manner that is similar to the way humans use their senses to relate to the world around them;
-
-* Social Intelligence;
-* Computer vision;
-* Natural language processing;
-* Speech recognition.
-
-************************************************************************************************************************
-
-![meds-k-new-generation](https://github.com/kappaservices/kappaservices/assets/134499461/025d7cea-3179-44b4-b264-f14085c074d4)
-
-![kappa-center](https://github.com/kappaservices/kappaservices/assets/134499461/13ee6894-a74d-45f5-8ab8-13998dabfb8d)
-
-************************************************************************************************************************ 
-### NASAMS Kappa
-************************************************************************************************************************
-
-The National Advanced Surface-to-Air Missile System (NASAMS) has its roots in the 1990s, when the U.S. military issued a tender for a new air defense weapon. A missing category had to be created because there was no other category between the Patriot capable of destroying long-range targets after the withdrawal of the old Hawk and the Avenger (a version of the Stinger vehicle mounted on a soldier that was carried by a soldier).
-
-![NASAMS+II-2341962635](https://github.com/kappaservices/kappaservices/assets/134499461/eaba6480-540b-4976-b04a-8deaeb5e7671)
-
-************************************************************************************************************************ 
-### MEADS Kappa
-************************************************************************************************************************
-
-The Medium Extended Air Defense System (MEADS) program is refining system-design concepts to meet the technical requirements agreed to by the MEADS partners-the U.S., Germany, and Italy. In July 1996, NATO formed the NATO MEADS Management Agency (NAMEADSMA) to lead program activities. The United States, Germany, and Italy have staffed the agency. NAMEADSMA awarded contracts for the Program Definition and Validation phase, which was scheduled for completion in early FY99. However, the U.S. has been evaluating options to reduce the overall costs of the MEADS program, including use of the PAC-3 missile.
-
-![18511382_304-3881340038](https://github.com/kappaservices/kappaservices/assets/134499461/829d215b-97ae-4254-b52d-f1213c31570a)
-
-![800px-MEADS_360-Degree_Launch](https://github.com/kappaservices/kappaservices/assets/134499461/730e2d0f-7a55-4e6a-96fb-089e05b65335)
-
-![Air_Defense_Systems_United_States_007](https://github.com/kappaservices/kappaservices/assets/134499461/418cf900-2799-4d77-95fb-b981aedbd0c4)
-
-************************************************************************************************************************ 
 ### Kappa Labs®
 ************************************************************************************************************************
 
