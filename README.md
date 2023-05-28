@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 ### Perception
 
-* Machine perception;
+* Machine perception, is the capability of a computer system to interpret data in a manner that is similar to the way humans use their senses to relate to the world around them;
+
 * Social Intelligence;
 * Computer vision;
 * Natural language processing;
