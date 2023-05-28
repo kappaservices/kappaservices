@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ************************************************************************************************************************ 
-### New Genearation NASAMS - IA Command
+### NASAMS K New Generation - IA Command
 ************************************************************************************************************************
 
 The National Advanced Surface-to-Air Missile System (NASAMS) has its roots in the 1990s, when the U.S. military issued a tender for a new air defense weapon. A missing category had to be created because there was no other category between the Patriot capable of destroying long-range targets after the withdrawal of the old Hawk and the Avenger (a version of the Stinger vehicle mounted on a soldier that was carried by a soldier).
