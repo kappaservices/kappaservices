@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 NASAMS (Norwegian Advanced Surface-to-Air Missile System, also known as the National Advanced Surface-to-Air Missile System
 
+![NASAMS+II-2341962635](https://github.com/kappaservices/kappaservices/assets/134499461/eaba6480-540b-4976-b04a-8deaeb5e7671)
+
 ************************************************************************************************************************ 
 ### Kappa Labs®
 ************************************************************************************************************************
