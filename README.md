@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 * Deep learning;
 * Fuzzy logic;
-* Neural network;
+* Neural network.
 
 ### Perception
 
