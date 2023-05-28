@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Kappa AI Command New Generation
 ************************************************************************************************************************
 
-### Artificial Intelligence Personality
+### Kappa Artificial Intelligence Personality
 
 * Fuzzy logic
 * Neural network
