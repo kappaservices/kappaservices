@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 ### Kappa IA Command New Generation
 ************************************************************************************************************************
 
-AI Personality
+### AI Personality
 
 * Fuzzy logic
 * Neural network
 * Deep learning
+*  Computer Vision
 
 ************************************************************************************************************************
 
