@@ -75,7 +75,7 @@ The Medium Extended Air Defense System (MEADS) program is refining system-design
 ![kappa-community](https://user-images.githubusercontent.com/134499461/240947639-ba85cf91-c040-4ba5-bbf6-8e97ba3ec528.jpg)
 
 ************************************************************************************************************************ 
-### Kappa Linux Enterprise Edition®
+### KappaOS Linux®
 ************************************************************************************************************************
 
 <b> Kappa Linux Enterprise Edition® is the latest 64-bit operating system derived from Debian Linux supported by Kappa Labs.</b> 
@@ -100,6 +100,8 @@ The Medium Extended Air Defense System (MEADS) program is refining system-design
  
 </b>
 
+************************************************************************************************************************ 
+### Kappa Linux Enterprise Edition®
 ************************************************************************************************************************
 
 ![source](https://github.com/kappaservices/kappaservices/assets/134499461/3856ba9f-5431-46e8-a41f-aa9495c1f0b6)
