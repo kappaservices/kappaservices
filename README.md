@@ -29,8 +29,6 @@ The MEADS program is refining system-design concepts to meet the technical requi
 
 ![800px-MEADS_360-Degree_Launch](https://github.com/kappaservices/kappaservices/assets/134499461/730e2d0f-7a55-4e6a-96fb-089e05b65335)
 
-![MEADS-5](https://github.com/kappaservices/kappaservices/assets/134499461/614212e6-3dc6-4b64-8c1d-53a821e38bde)
-
 ![Air_Defense_Systems_United_States_007](https://github.com/kappaservices/kappaservices/assets/134499461/418cf900-2799-4d77-95fb-b981aedbd0c4)
 
 ************************************************************************************************************************ 
