@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### Kappa AI New Generation - Personality Psychology
 ************************************************************************************************************************
 
-### Obs: Kappa AI New Generation, does not use bigdata.
-
 ### Initial reading : Artificial intelligence using C, Herbert Schildt 
+
+### Obs: Kappa AI New Generation, does not use bigdata.
 
 ### Learning
 
