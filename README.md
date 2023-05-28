@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ************************************************************************************************************************ 
-### Kappa IA Command New Generation
+### Kappa AI Command New Generation
 ************************************************************************************************************************
 
-### AI Personality
+### Artificial Intelligence Personality
 
 * Fuzzy logic
 * Neural network
 * Deep learning
-*  Computer Vision
+* Computer Vision
 
 ************************************************************************************************************************
 
