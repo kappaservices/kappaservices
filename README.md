@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ### Obs: Kappa AI New Generation, does not use bigdata.
 
+### Initial Lecture : Artificial intelligence using C, Herbert Schildt 
+
 ### Learning
 
 * Deep learning;
