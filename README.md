@@ -140,6 +140,10 @@ The ability to upgrade all system components including processor cores, memory, 
  
 https://www.iso.org/obp/ui/#iso:std:iso:690:ed-4:v1:en 
  
+* Writing for Computer Science, 3rd Edition
+ 
+https://link.springer.com/book/10.1007/978-1-4471-6639-9 
+ 
 * Steps to conducting a systematic review 
  
 https://lib.guides.umd.edu/SR/steps
