@@ -14,15 +14,18 @@ Here are some ideas to get you started:
 -->
 
 ************************************************************************************************************************ 
-### Kappa AI Command New Generation
+### Kappa AI New Generation - Personality
 ************************************************************************************************************************
 
-### Kappa Artificial Intelligence Personality
+### Learning
 
+* Deep learning
 * Fuzzy logic
 * Neural network
-* Deep learning
-* Computer Vision
+
+### Perception
+
+Machine perception, Social Intelligence, Computer vision, Natural language processing and Speech recognition
 
 ************************************************************************************************************************
 
