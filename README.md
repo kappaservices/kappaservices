@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 ### Kappa IA Command New Generation
 ************************************************************************************************************************
 
+AI Personality
+
+* Fuzzy logic
+* Neural network
+* Deep learning
+
+************************************************************************************************************************
+
 ![meds-k-new-generation](https://github.com/kappaservices/kappaservices/assets/134499461/025d7cea-3179-44b4-b264-f14085c074d4)
 
 ![kappa-center](https://github.com/kappaservices/kappaservices/assets/134499461/13ee6894-a74d-45f5-8ab8-13998dabfb8d)
