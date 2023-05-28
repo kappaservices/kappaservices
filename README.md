@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![meds-k-new-generation](https://github.com/kappaservices/kappaservices/assets/134499461/025d7cea-3179-44b4-b264-f14085c074d4)
+
 ************************************************************************************************************************ 
 ### NASAMS K - IA Command New Generation
 ************************************************************************************************************************
