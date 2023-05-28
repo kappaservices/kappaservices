@@ -144,17 +144,9 @@ https://www.iso.org/obp/ui/#iso:std:iso:690:ed-4:v1:en
  
 https://link.springer.com/book/10.1007/978-1-4471-6639-9 
  
-* Steps to conducting a systematic review 
+* How to do a Structured Literature Review in computer science 
  
-https://lib.guides.umd.edu/SR/steps
- 
-* Methodology of a systematic review 
- 
-https://pubmed.ncbi.nlm.nih.gov/29731270/ 
- 
-* How to Do a Systematic Review: A Best Practice Guide for Conducting and Reporting Narrative Reviews, Meta-Analyses, and Meta-Syntheses
- 
-https://pubmed.ncbi.nlm.nih.gov/30089228/ 
+https://research.idi.ntnu.no/aimasters/files/SLR_HowTo2018.pdf 
  
 ************************************************************************************************************************ 
 
