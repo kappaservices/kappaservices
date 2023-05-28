@@ -144,9 +144,17 @@ https://www.iso.org/obp/ui/#iso:std:iso:690:ed-4:v1:en
  
 https://link.springer.com/book/10.1007/978-1-4471-6639-9 
  
+* Systematic Literature Review in Computer Science - A Practical Guide 
+ 
+https://www.researchgate.net/publication/320704338_Systematic_Literature_Review_in_Computer_Science_-_A_Practical_Guide 
+ 
 * How to do a Structured Literature Review in computer science 
  
 https://research.idi.ntnu.no/aimasters/files/SLR_HowTo2018.pdf 
+ 
+* How-to conduct a systematic literature review: A quick guide for computer science research 
+ 
+https://www.sciencedirect.com/science/article/pii/S2215016122002746 
  
 ************************************************************************************************************************ 
 
