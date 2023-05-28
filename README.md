@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Kappa AI New Generation - Personality Psychology
 ************************************************************************************************************************
 
-### Obs: AI New Generation, does not use bigdata
+### Obs: Kappa AI New Generation, does not use bigdata.
 
 ### Learning
 
