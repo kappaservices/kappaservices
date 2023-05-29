@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Ukraine-flag](https://github.com/kappaservices/kappaservices/assets/134499461/fcb5b499-58a8-4ad4-be7e-ea68af0b8cda)
 
-### Kappa Service United Kingdom is united with the people of Ukraine and the international community.
+### Kappa Services Corporation® United Kingdom is united with the people of Ukraine and the international community.
 
 ************************************************************************************************************************ 
 ### Kappa Labs®
