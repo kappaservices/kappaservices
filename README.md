@@ -19,6 +19,23 @@ Here are some ideas to get you started:
 
 ![mikaviox3dprovv](https://github.com/kappaservices/Mikaviox3D/assets/134499461/49cad40c-52e7-4c23-b577-4473a316b3e2)
 
+************************************************************************************************************************
+
+### Learning
+
+* Deep learning;
+* Fuzzy logic;
+* Neural network.
+
+### Perception
+
+* Machine perception, is the capability of a computer system to interpret data in a manner that is similar to the way humans use their senses to relate to the world around them;
+
+* Social Intelligence;
+* Computer vision;
+* Natural language processing;
+* Speech recognition.
+
 https://github.com/kappaservices/Mikaviox3D
 
 ************************************************************************************************************************ 
