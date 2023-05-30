@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ### Mikavio X 3D Professional Plus® - Military Virtual Training & Simulation
 ************************************************************************************************************************
 
+![20201205091111965-2222650497](https://github.com/kappaservices/Mikaviox3D/assets/134499461/d842c88d-f67a-4d5a-959d-bc286c81bc64)
+
 ![mikaviox3dpro](https://github.com/kappaservices/MikavioX3D/assets/134499461/6b88b9dc-078c-4728-ad57-c34e2463042b)
 
 ************************************************************************************************************************ 
