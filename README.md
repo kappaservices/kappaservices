@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Mikavio x 3D Professional Plus® - 鬼滅の刃 - (AI Avatars Director Control)
 ************************************************************************************************************************
 
-![20181025191037d5a](https://github.com/kappaservices/Mikaviox3D/assets/134499461/bbd75f4f-654f-4f65-bdbe-9728a3f7b502)
+![201810251910349c1](https://github.com/kappaservices/Mikaviox3D/assets/134499461/3711b1a0-4a76-4d03-8306-6b2d3b2479b8)
 
 ![201811051925033e0](https://github.com/kappaservices/Mikaviox3D/assets/134499461/bf608242-d740-4f11-af12-b307df5c7cda)
 
