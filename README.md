@@ -32,7 +32,7 @@ https://github.com/kappaservices/Mikaviox3D
 ![201810251910349c1](https://github.com/kappaservices/Mikaviox3D/assets/134499461/3711b1a0-4a76-4d03-8306-6b2d3b2479b8)
 
 ************************************************************************************************************************ 
-### KMEAPS® - Kappa Medium Extended Air Protected System
+### KMEAPS® - Kappa Medium Extended Air Protect System
 ************************************************************************************************************************
 
 ![kappa-center](https://github.com/kappaservices/kappaservices/assets/134499461/13ee6894-a74d-45f5-8ab8-13998dabfb8d)
