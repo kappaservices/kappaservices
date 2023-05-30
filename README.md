@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ************************************************************************************************************************ 
-### Mikavio X 3D Professional Plus® - Demon Slayer - Military Virtual Training & Simulation
+### Mikavio X 3D Professional Plus® - Demon Slayer
 ************************************************************************************************************************
 
 ![mikaviox3dprovv](https://github.com/kappaservices/Mikaviox3D/assets/134499461/49cad40c-52e7-4c23-b577-4473a316b3e2)
