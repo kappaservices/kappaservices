@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ************************************************************************************************************************ 
-### Bushi River X Operating System® - Katana Kernel River - Hiragana GUI River
+### Bushi River X - Personal Operating System - Katana Kernel River - Hiragana GUI River
 ************************************************************************************************************************
 
 ![Untitled](https://github.com/kappaservices/kappaservices/assets/134499461/b27b1ff2-7f64-4cc2-a885-b86c617605de)
+
+:description: The perfect emulation setup to study and develop the linux-kernel v6.3.4, kernel modules, qemu-buildroot-setup,QEMU, gem5-buildroot-setup, gem5 and x86_64, ARMv7 and ARMv8 and baremetal assembly, ANSI C, and POSIX. gdb and kgdb just work. Powered by about-the-qemu-buildroot-setup, Buildroot and crosstool-NG. Highly automated. Thoroughly documented. Automated test-this-repo, tests. "Tested" in an Debian 11 host.
 
 ************************************************************************************************************************ 
 ### Kappa Labs®
