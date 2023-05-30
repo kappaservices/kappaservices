@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![mikaviox3dprovv](https://github.com/kappaservices/Mikaviox3D/assets/134499461/49cad40c-52e7-4c23-b577-4473a316b3e2)
 
-![decorate-3930607476](https://github.com/kappaservices/Mikaviox3D/assets/134499461/ac2632ca-2253-4735-8d12-d48ede8b013e)
+![decorate-3930607476](https://github.com/kappaservices/Mikaviox3D/assets/134499461/0181420f-f393-4ed7-b18f-5fc82236c18c)
 
 ![mikaviox3dpro](https://github.com/kappaservices/MikavioX3D/assets/134499461/6b88b9dc-078c-4728-ad57-c34e2463042b)
 
