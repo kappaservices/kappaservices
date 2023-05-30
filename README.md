@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ### Mikavio X 3D Professional® - Military Virtual Training & Simulation
 ************************************************************************************************************************
 
+![mikaviox3dpro](https://github.com/kappaservices/MikavioX3D/assets/134499461/6b88b9dc-078c-4728-ad57-c34e2463042b)
+
 ************************************************************************************************************************ 
 ### Bushi River X® - Personal Operating System - Katana Kernel River - Hiragana GUI River
 ************************************************************************************************************************
