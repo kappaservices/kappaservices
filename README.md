@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### River X OS ® - Personal Operating System
 ************************************************************************************************************************
 
-![241940381-b27b1ff2-7f64-4cc2-a885-b86c617605de](https://github.com/kappaservices/BRxOs/assets/134499461/0c84a264-0fd1-488b-94f9-843687ff4a7d)
+![241960825-0c84a264-0fd1-488b-94f9-843687ff4a7d](https://github.com/kappaservices/RxOs/assets/134499461/7bbca3e3-f541-4427-8b8a-eed427df0fc1)
 
 https://github.com/kappaservices/RxOs
 
