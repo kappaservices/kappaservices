@@ -50,10 +50,10 @@ https://github.com/kappaservices/KMEAPS
 ![kappa-center](https://github.com/kappaservices/kappaservices/assets/134499461/13ee6894-a74d-45f5-8ab8-13998dabfb8d)
 
 ************************************************************************************************************************ 
-### Kappa AI®
+### KMEAPS AI®
 ************************************************************************************************************************
 
-![Coherent-synchronization-system-using-training-sequence](https://github.com/kappaservices/kappaservices/assets/134499461/efb2d115-5279-46fc-8b9f-f57258bb09a5)
+![KMEAPS AI](https://github.com/kappaservices/kappaservices/assets/134499461/efb2d115-5279-46fc-8b9f-f57258bb09a5)
 
 ************************************************************************************************************************ 
 ### Kappa Labs®
