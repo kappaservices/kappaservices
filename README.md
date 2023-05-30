@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Kappa Services Corporation® United Kingdom is united with the people of Ukraine and the international community.
+### The Kappa Services® United Kingdom is united with the people of Ukraine and the international community.
 
 ************************************************************************************************************************ 
 ### Kappa Labs®
