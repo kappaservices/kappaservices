@@ -20,30 +20,6 @@ Here are some ideas to get you started:
 ![mikaviox3dprovv](https://github.com/kappaservices/Mikaviox3D/assets/134499461/49cad40c-52e7-4c23-b577-4473a316b3e2)
 
 ************************************************************************************************************************ 
-### Mikavio x 3D Professional Plus® - 鬼滅の刃 - (AI Avatars Director Control)
-************************************************************************************************************************
-
-![201810251910349c1](https://github.com/kappaservices/Mikaviox3D/assets/134499461/3711b1a0-4a76-4d03-8306-6b2d3b2479b8)
-
-![201811051925033e0](https://github.com/kappaservices/Mikaviox3D/assets/134499461/bf608242-d740-4f11-af12-b307df5c7cda)
-
-************************************************************************************************************************ 
-### Mikavio x 3D Professional Plus® - 鬼滅の刃 - Modern Urban Warfare (Operators Control)
-************************************************************************************************************************
-
-![qqq](https://github.com/kappaservices/Mikaviox3D/assets/134499461/9c857515-c11e-4951-bc1e-4e7d7b8f6f82)
-
-![1000x523-1985067551](https://github.com/kappaservices/Mikaviox3D/assets/134499461/7df52291-9ac2-4842-9655-9e9be3ea2854)
-
-![1500x786](https://github.com/kappaservices/Mikaviox3D/assets/134499461/da68f091-e455-4032-9edf-614da26c35f4)
-
-![mmm](https://github.com/kappaservices/Mikaviox3D/assets/134499461/084cdc26-581d-439b-9258-a8039dcf2ce5)
-
-![ppp](https://github.com/kappaservices/Mikaviox3D/assets/134499461/a301ff6d-20e8-4517-a8dc-e49788296e0a)
-
-![muc](https://github.com/kappaservices/Mikaviox3D/assets/134499461/7e97eaf3-97f0-47cd-9551-532df0af3441)
-
-************************************************************************************************************************ 
 ### River X OS ® - Personal Operating System
 ************************************************************************************************************************
 
