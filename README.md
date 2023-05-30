@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 
 ![qqq](https://github.com/kappaservices/Mikaviox3D/assets/134499461/9c857515-c11e-4951-bc1e-4e7d7b8f6f82)
 
-![mmm](https://github.com/kappaservices/Mikaviox3D/assets/134499461/084cdc26-581d-439b-9258-a8039dcf2ce5)
-
 ![ppp](https://github.com/kappaservices/Mikaviox3D/assets/134499461/a301ff6d-20e8-4517-a8dc-e49788296e0a)
 
 ![muc](https://github.com/kappaservices/Mikaviox3D/assets/134499461/7e97eaf3-97f0-47cd-9551-532df0af3441)
