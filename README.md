@@ -53,7 +53,7 @@ https://github.com/kappaservices/KMEAPS
 ### KMEAPS AI®
 ************************************************************************************************************************
 
-![kameps](https://github.com/kappaservices/kappaservices/assets/134499461/b3a22966-e037-4002-a917-b3320a7f6535)
+![kmeapsai](https://github.com/kappaservices/KMEAPS/assets/134499461/63dddef7-87c8-4827-a096-0db5dbf71583)
 
 ************************************************************************************************************************ 
 ### Kappa Labs®
