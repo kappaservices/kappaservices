@@ -29,30 +29,17 @@ https://github.com/kappaservices/Mikaviox3D
 ### Mikado AI® - Personality Psychology
 ************************************************************************************************************************
 
-### Learning
 
-* Deep learning;
-* Fuzzy logic;
-* Neural network.
-
-### Perception
-
-* Machine perception, is the capability of a computer system to interpret data in a manner that is similar to the way humans use their senses to relate to the world around them;
-
-* Social Intelligence;
-* Computer vision;
-* Natural language processing;
-* Speech recognition.
-
-************************************************************************************************************************ 
-### Kappa AI® - Personality Psychology
-************************************************************************************************************************
 
 ************************************************************************************************************************ 
 ### KMEADS®
 ************************************************************************************************************************
 
 ### The Kappa Medium Extended Air Defense System (KMEADS) 
+
+************************************************************************************************************************ 
+### Kappa AI® - Personality Psychology
+************************************************************************************************************************
 
 ![meds-k-new-generation](https://github.com/kappaservices/kappaservices/assets/134499461/025d7cea-3179-44b4-b264-f14085c074d4)
 
