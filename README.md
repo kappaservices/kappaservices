@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Bushi River X® - Personal Operating System - Katana Kernel River - Hiragana GUI River
 ************************************************************************************************************************
 
-![Untitled](https://github.com/kappaservices/kappaservices/assets/134499461/b27b1ff2-7f64-4cc2-a885-b86c617605de)
+![241940381-b27b1ff2-7f64-4cc2-a885-b86c617605de](https://github.com/kappaservices/BRxOs/assets/134499461/0c84a264-0fd1-488b-94f9-843687ff4a7d)
 
 https://github.com/kappaservices/BRxOs
 
