@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ************************************************************************************************************************
 
+https://github.com/kappaservices/Mikaviox3D
+
 ### Learning
 
 * Deep learning;
@@ -35,8 +37,6 @@ Here are some ideas to get you started:
 * Computer vision;
 * Natural language processing;
 * Speech recognition.
-
-https://github.com/kappaservices/Mikaviox3D
 
 ************************************************************************************************************************ 
 ### River X OS ® - Personal Operating System
