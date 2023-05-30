@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 ### Mikavio x 3D Professional Plus® - 鬼滅の刃 - (Operators Control)
 ************************************************************************************************************************
 
+![1000x523-1985067551](https://github.com/kappaservices/Mikaviox3D/assets/134499461/7df52291-9ac2-4842-9655-9e9be3ea2854)
+
 ![mikaviox3dpro](https://github.com/kappaservices/MikavioX3D/assets/134499461/6b88b9dc-078c-4728-ad57-c34e2463042b)
 
 ************************************************************************************************************************ 
