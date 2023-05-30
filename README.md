@@ -19,13 +19,17 @@ Here are some ideas to get you started:
 
 ![mikaviox3dprovv](https://github.com/kappaservices/Mikaviox3D/assets/134499461/49cad40c-52e7-4c23-b577-4473a316b3e2)
 
-![mikaviox3dpro](https://github.com/kappaservices/MikavioX3D/assets/134499461/6b88b9dc-078c-4728-ad57-c34e2463042b)
-
 ************************************************************************************************************************ 
-### Mikavio x 3D Professional Plus® - 鬼滅の刃 - (AI Avatars Control)
+### Mikavio x 3D Professional Plus® - 鬼滅の刃 - (AI Avatars Simulations Control)
 ************************************************************************************************************************
 
 ![201811051925033e0](https://github.com/kappaservices/Mikaviox3D/assets/134499461/bf608242-d740-4f11-af12-b307df5c7cda)
+
+************************************************************************************************************************ 
+### Mikavio x 3D Professional Plus® - 鬼滅の刃 - (Players Simulations Control)
+************************************************************************************************************************
+
+![mikaviox3dpro](https://github.com/kappaservices/MikavioX3D/assets/134499461/6b88b9dc-078c-4728-ad57-c34e2463042b)
 
 ************************************************************************************************************************ 
 ### River X OS ® - Personal Operating System
