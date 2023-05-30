@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Mikavio x 3D Professional Plus® - 鬼滅の刃 - (Avatars)
 ************************************************************************************************************************
 
-![20160122190630bc0](https://github.com/kappaservices/Mikaviox3D/assets/134499461/41d54bd0-7ef6-4975-b663-e08dc3d73f75)
+![201811051925033e0](https://github.com/kappaservices/Mikaviox3D/assets/134499461/bf608242-d740-4f11-af12-b307df5c7cda)
 
 ************************************************************************************************************************ 
 ### River X OS ® - Personal Operating System
