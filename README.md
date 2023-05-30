@@ -45,13 +45,13 @@ https://github.com/kappaservices/KMEAPS
 ### Kappa AI®
 ************************************************************************************************************************
 
-![meds-k-new-generation](https://github.com/kappaservices/kappaservices/assets/134499461/025d7cea-3179-44b4-b264-f14085c074d4)
-
 ![kappa-center](https://github.com/kappaservices/kappaservices/assets/134499461/13ee6894-a74d-45f5-8ab8-13998dabfb8d)
 
 ************************************************************************************************************************ 
 ### KMEAPS AI®
 ************************************************************************************************************************
+
+![meds-k-new-generation](https://github.com/kappaservices/kappaservices/assets/134499461/025d7cea-3179-44b4-b264-f14085c074d4)
 
 ![kmeapsai](https://github.com/kappaservices/KMEAPS/assets/134499461/63dddef7-87c8-4827-a096-0db5dbf71583)
 
