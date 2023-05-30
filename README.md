@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![decorate-3930607476](https://github.com/kappaservices/Mikaviox3D/assets/134499461/0181420f-f393-4ed7-b18f-5fc82236c18c)
 
+![20160122190627e04](https://github.com/kappaservices/Mikaviox3D/assets/134499461/1dbb792c-fc41-46d2-8924-e1b366e23feb)
+
 ![mikaviox3dpro](https://github.com/kappaservices/MikavioX3D/assets/134499461/6b88b9dc-078c-4728-ad57-c34e2463042b)
 
 ************************************************************************************************************************ 
