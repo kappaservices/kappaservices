@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ************************************************************************************************************************ 
-### Mikavia X 3D Professional Plus® - Carrier and Convoy Planner - 鬼滅の刃 (Demon Slayer)
+### Mikavia x 3D Professional Plus® - Carrier and Convoy Planner - 鬼滅の刃 (Demon Slayer)
 ************************************************************************************************************************
 
 ![241967549-49cad40c-52e7-4c23-b577-4473a316b3e2](https://github.com/kappaservices/Mikaviax3D/assets/134499461/7c144bf2-6978-4974-85e5-80c7cfe4c17c)
