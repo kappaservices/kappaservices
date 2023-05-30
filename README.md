@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![mikaviox3dpro](https://github.com/kappaservices/MikavioX3D/assets/134499461/6b88b9dc-078c-4728-ad57-c34e2463042b)
 
 ************************************************************************************************************************ 
-### Bushi River X® - Personal Operating System
+### River X OS ® - Personal Operating System
 ************************************************************************************************************************
 
 ![241940381-b27b1ff2-7f64-4cc2-a885-b86c617605de](https://github.com/kappaservices/BRxOs/assets/134499461/0c84a264-0fd1-488b-94f9-843687ff4a7d)
