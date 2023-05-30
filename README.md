@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Untitled](https://github.com/kappaservices/kappaservices/assets/134499461/b27b1ff2-7f64-4cc2-a885-b86c617605de)
 
-The perfect emulation setup to study and develop the linux-kernel v6.3.4, kernel modules, qemu-buildroot-setup, QEMU, gem5-buildroot-setup, gem5 and x86_64, ARMv7 and ARMv8 and baremetal assembly, ANSI C, and POSIX. gdb and kgdb just work.
+https://github.com/kappaservices/BRxOs
 
 ************************************************************************************************************************ 
 ### Kappa Labs®
