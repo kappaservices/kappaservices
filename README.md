@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ### Bushi River X Operating System® - Katana Kernel River - Hiragana GUI River
 ************************************************************************************************************************
 
+![Untitled](https://github.com/kappaservices/kappaservices/assets/134499461/b27b1ff2-7f64-4cc2-a885-b86c617605de)
+
 ![trend_20210119165952-2251596877](https://github.com/kappaservices/kappaservices/assets/134499461/3b633427-a386-489a-beb7-7799fbc05487)
 
 ************************************************************************************************************************ 
