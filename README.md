@@ -153,7 +153,7 @@ The ability to upgrade all system components including processor cores, memory, 
 ![river-x-band](https://user-images.githubusercontent.com/134499461/241018074-ae105e6d-6a20-40ff-86d5-b98e14cdd2b8.jpg)
 
 ************************************************************************************************************************
-<b> The Kappa Services® United Kingdom is united with the people of Ukraine and the international community.</b>
+<b> The Kappa Services® is united with the people of Ukraine and the international community.</b>
 ************************************************************************************************************************
 
 ![Ukraine-flag](https://github.com/kappaservices/kappaservices/assets/134499461/e8e96be8-18a9-4c2b-b094-08e9d68ea422)
