@@ -100,12 +100,6 @@ The ability to upgrade all system components including processor cores, memory, 
 
 ![tiers](https://user-images.githubusercontent.com/134499461/240970538-2081679f-63b0-4a0e-9c87-101ed1ff4d6f.png)
 
-************************************************************************************************************************ 
-### How to support cultural music in London
-************************************************************************************************************************
-
-![river-x-band](https://user-images.githubusercontent.com/134499461/241018074-ae105e6d-6a20-40ff-86d5-b98e14cdd2b8.jpg)
-
 ************************************************************************************************************************
 <b> The Kappa Services® is united with the people of Ukraine and the international community.</b>
 ************************************************************************************************************************
