@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![241989502-7bbca3e3-f541-4427-8b8a-eed427df0fc1](https://github.com/kappaservices/kappaservices/assets/134499461/1ba9ca0e-ae32-4a03-8890-1a34f5a6ee46)
 
-https://github.com/kappaservices/rosx/assets/134499461/54d082d7-dd4a-41fc-b907-d1d586692795
+https://github.com/kappaservices/rosx/assets/134499461/b69e7428-66d2-42a3-9775-1ead85be2750
 
 ************************************************************************************************************************ 
 ### Kappa Labs®
