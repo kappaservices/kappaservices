@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <b>Cyber Security Company.</b>
 
 ************************************************************************************************************************ 
-### ROSX® - Modern, Full-Featured & User Friendly
+### ROSX® - A GNU/Linux 100% free distribution
 ************************************************************************************************************************
 
-<b> ROSX®, a GNU/Linux 100% free distribution. It was the first fully free GNU/Linux system recognized by the GNU Project</b>.
+<b> ROSX®, It was the first fully free GNU/Linux system recognized by the GNU Project</b>.
 
 ************************************************************************************************************************
 
