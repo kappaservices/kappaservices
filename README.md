@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 ![241989502-7bbca3e3-f541-4427-8b8a-eed427df0fc1](https://github.com/kappaservices/kappaservices/assets/134499461/1ba9ca0e-ae32-4a03-8890-1a34f5a6ee46)
 
+************************************************************************************************************************
+
+![riverosx-header-pc](https://github.com/kappaservices/kappaservices/assets/134499461/29dcb46f-481f-445e-a3ac-15a432124c2e)
+
 ![riverosx-header-cropped](https://github.com/kappaservices/kappaservices/assets/134499461/ae2fc9b4-737d-4716-b1ae-78f45a83b977)
 
 ![riverosx-apps](https://github.com/kappaservices/kappaservices/assets/134499461/6b3f1dd0-31d6-48d6-a8fa-21e56c8ded9c)
