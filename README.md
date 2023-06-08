@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ![riverosx-header-cropped](https://github.com/kappaservices/kappaservices/assets/134499461/ae2fc9b4-737d-4716-b1ae-78f45a83b977)
 
+![riverosx-desktop-byzantium](https://github.com/kappaservices/kappaservices/assets/134499461/1c731494-4f5a-4967-833e-d667460dc04e)
+
 https://github.com/kappaservices/rosx/assets/134499461/b69e7428-66d2-42a3-9775-1ead85be2750
 
 ************************************************************************************************************************ 
