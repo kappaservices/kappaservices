@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### ROSX® - A GNU/Linux 100% free distribution
 ************************************************************************************************************************
 
-![244488042-1ba9ca0e-ae32-4a03-8890-1a34f5a6ee46](https://github.com/kappaservices/kappaservices/assets/134499461/d86e6748-1ea3-4128-8f66-ce0ea9781ecd)
+![244488042-1ba9ca0e-ae32-4a03-8890-1a34f5a6ee46 (1)](https://github.com/kappaservices/kappaservices/assets/134499461/d079926a-e68f-43b2-a576-ed89da3598c3)
 
 ************************************************************************************************************************ 
 ### River X® - Open-source hardware Architecture
