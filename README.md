@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### ROSX® - Modern, Full-Featured & User Friendly
 ************************************************************************************************************************
 
-### ROSX®, a GNU/Linux 100% free distribution. It was the first fully free GNU/Linux system recognized by the GNU Project.
+<b> ROSX®, a GNU/Linux 100% free distribution. It was the first fully free GNU/Linux system recognized by the GNU Project</b>.
 
 ![241989502-7bbca3e3-f541-4427-8b8a-eed427df0fc1](https://github.com/kappaservices/kappaservices/assets/134499461/1ba9ca0e-ae32-4a03-8890-1a34f5a6ee46)
 
