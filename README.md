@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 ![riverosx-desktop-byzantium](https://github.com/kappaservices/kappaservices/assets/134499461/1c731494-4f5a-4967-833e-d667460dc04e)
 
+![riverosx-apps](https://github.com/kappaservices/kappaservices/assets/134499461/6b3f1dd0-31d6-48d6-a8fa-21e56c8ded9c)
+
+************************************************************************************************************************
+
 https://github.com/kappaservices/rosx/assets/134499461/b69e7428-66d2-42a3-9775-1ead85be2750
 
 ************************************************************************************************************************ 
