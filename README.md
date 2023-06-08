@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 
 ![244492817-ae2fc9b4-737d-4716-b1ae-78f45a83b977](https://github.com/kappaservices/kappaservices/assets/134499461/351252bc-3d8a-4d34-848e-15ec48350489)
 
-![riverosx-apps](https://github.com/kappaservices/kappaservices/assets/134499461/6b3f1dd0-31d6-48d6-a8fa-21e56c8ded9c)
-
 ![riverosx-desktop-byzantium](https://github.com/kappaservices/kappaservices/assets/134499461/1c731494-4f5a-4967-833e-d667460dc04e)
+
+![riverosx-apps](https://github.com/kappaservices/kappaservices/assets/134499461/6b3f1dd0-31d6-48d6-a8fa-21e56c8ded9c)
 
 ************************************************************************************************************************ 
 ### Kappa Labs®
