@@ -23,17 +23,11 @@ Here are some ideas to get you started:
 ### ROSX® - A GNU/Linux 100% free distribution
 ************************************************************************************************************************
 
-<b> ROSX®, It was the first fully free GNU/Linux system recognized by the GNU Project</b>.
-
-************************************************************************************************************************
-
 ![241989502-7bbca3e3-f541-4427-8b8a-eed427df0fc1](https://github.com/kappaservices/kappaservices/assets/134499461/1ba9ca0e-ae32-4a03-8890-1a34f5a6ee46)
 
 ************************************************************************************************************************ 
 ### River X® - Open-source hardware Architecture
 ************************************************************************************************************************
-
-<b> ROSX®, It was the first fully free GNU/Linux system recognized by the GNU Project</b>.
 
 ![244488042-1ba9ca0e-ae32-4a03-8890-1a34f5a6ee46](https://github.com/kappaservices/kappaservices/assets/134499461/b05c7872-c989-4ca0-ac47-8340d96459a8)
 
