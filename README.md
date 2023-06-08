@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ************************************************************************************************************************
 
-![riverosx-header-pc](https://github.com/kappaservices/kappaservices/assets/134499461/efcd4da5-cb20-4ae2-b7fe-2eb10819bb2a)
+![riverosx-header-pc](https://github.com/kappaservices/kappaservices/assets/134499461/6f72d835-c5e8-4a64-b7a4-3e05570edc0e)
 
 ![riverosx-header-cropped](https://github.com/kappaservices/kappaservices/assets/134499461/ae2fc9b4-737d-4716-b1ae-78f45a83b977)
 
