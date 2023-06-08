@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ### ROSX® - Modern, Full-Featured & User Friendly
 ************************************************************************************************************************
 
+### ROSX®, a GNU/Linux 100% free distribution. It was the first fully free GNU/Linux system recognized by the GNU Project.
+
 ![241989502-7bbca3e3-f541-4427-8b8a-eed427df0fc1](https://github.com/kappaservices/kappaservices/assets/134499461/1ba9ca0e-ae32-4a03-8890-1a34f5a6ee46)
 
 ![riverosx-header-cropped](https://github.com/kappaservices/kappaservices/assets/134499461/ae2fc9b4-737d-4716-b1ae-78f45a83b977)
@@ -30,10 +32,6 @@ Here are some ideas to get you started:
 ![riverosx-apps](https://github.com/kappaservices/kappaservices/assets/134499461/6b3f1dd0-31d6-48d6-a8fa-21e56c8ded9c)
 
 ![riverosx-desktop-byzantium](https://github.com/kappaservices/kappaservices/assets/134499461/1c731494-4f5a-4967-833e-d667460dc04e)
-
-************************************************************************************************************************
-
-https://github.com/kappaservices/rosx/assets/134499461/b69e7428-66d2-42a3-9775-1ead85be2750
 
 ************************************************************************************************************************ 
 ### Kappa Labs®
