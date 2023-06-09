@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![244488042-1ba9ca0e-ae32-4a03-8890-1a34f5a6ee46 (1)](https://github.com/kappaservices/kappaservices/assets/134499461/d079926a-e68f-43b2-a576-ed89da3598c3)
 
-![RiverOS 64-bit-2023-06-09-14-21-07](https://github.com/kappaservices/rosx/assets/134499461/c0062c60-4a3f-4d7e-841d-789b202a971b)
+https://github.com/kappaservices/rosx/assets/134499461/8d5caf64-b3b2-495a-a34c-1078f6ac89b0
 
 ************************************************************************************************************************ 
 ### River X® - A 100% Open-source hardware architecture
